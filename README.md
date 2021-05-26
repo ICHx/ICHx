@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am penultimate CS student.  I worked on SQL/Java project with Web App client.  Recently messing with Google Cloud solutions.  Please feel free to explore.
+I am penultimate CS student.  
+I worked on SQL/Java Web App project.  
+Recently been messing with Google Cloud solutions.  
+Please feel free to explore.
