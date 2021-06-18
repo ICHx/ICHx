@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 I am penultimate CS student.  
 I worked on SQL/Java Web App project, preliminary C,C++ and Python.  
 Recently been messing with Google Cloud solutions.  
+As well as playing with PySpark for machine learning.
 Please feel free to explore.
