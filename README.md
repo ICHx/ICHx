@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🏳️‍🌈 香港真係好靚
 -->
 
-I am penultimate CS student.  
-I worked on SQL/Java Web App project, preliminary C,C++ and Python.  
+Penultimate CS student.  
+Worked on serveral Java Web project, preliminary exp on C,C++ and Python.  
 Recently been messing with Google Cloud solutions.  
 As well as playing with PySpark for machine learning.
 Please feel free to explore.
