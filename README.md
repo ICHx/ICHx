@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 - 🏳️‍🌈 香港真係好靚
 -->
 
-Penultimate CS student.  
-Worked on serveral Java Web project, preliminary exp on C,C++ and Python.  
-Recently been messing with Google Cloud solutions.  
-As well as playing with PySpark for machine learning.
+To be graduated CS student
+
+- Worked on serveral Java Web project, preliminary exp on C,C++ and Python.  
+- Recently been using PySpark, Hadoop and Pandas for data analysis and visualization
+- Had been messing with Google Cloud solutions.  
+
 Please feel free to explore.
+
+Preferred Build Tools:
+Gradle, Pipenv, Yarn
