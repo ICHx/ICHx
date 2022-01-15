@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 To be graduated CS student
 
-- Worked on serveral Java Web project, preliminary exp on C,C++ and Python.  
-- Recently been using PySpark, Hadoop and Pandas for data analysis and visualization
-- Had been messing with Google Cloud solutions.  
+- Worked on serveral Java + Javascript Web project, and some Python.  
+- Been using PySpark, Hadoop and Pandas for data analysis and visualization
+- Been messing with Google Cloud solutions.
 
 Please feel free to explore.
 
