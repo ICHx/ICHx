@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 To be graduated.
-![Bio here](ichx.github.io)
+[Bio here](http://ichx.github.io)
 
 - Worked on serveral Java + Javascript Web project, and some Python.  
 - Been using PySpark, Hadoop and Pandas for data analysis and visualization
