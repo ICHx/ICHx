@@ -19,12 +19,5 @@ Here are some ideas to get you started:
 To be graduated.
 [Bio here](http://ichx.github.io)
 
-- Worked on serveral Java + Javascript Web project, and some Python.  
-- Been using PySpark, Hadoop and Pandas for data analysis and visualization
-- Been messing with Google Cloud solutions.
-- k8s getting started
-
-Please feel free to contact.
-
 Preferred Build Tools:
 Gradle, Pipenv, Yarn
