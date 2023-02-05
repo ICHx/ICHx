@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 - 🏳️‍🌈 香港真係好靚
 -->
 
-To be graduated.
 [Bio here](http://ichx.github.io)
-
-Preferred Build Tools:
-Gradle, Pipenv, Yarn
